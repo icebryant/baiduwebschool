@@ -1,0 +1,11 @@
+*{
+    font-family:"微软雅黑";
+    color:#fff;
+  }
+  body{
+    background:#00a0fc;
+    overflow:hidden;
+  }
+  .github-footer{
+    margin: 0 auto;
+  }
